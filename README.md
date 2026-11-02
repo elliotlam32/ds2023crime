@@ -2,6 +2,7 @@
 public repo for group project. 
 
 **General Ideas for Dashboard**
+
 Alluvial for Arrest, Domestic, and Crime Type
 
 Pie Chart of crime types per year. Year is the interactive portion
