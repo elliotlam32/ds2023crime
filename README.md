@@ -1,6 +1,11 @@
 # ds2023crime
 public repo for group project. 
 
+# pls read
+i need to add you guys as collaborators, but in the mean time you could just clone the repo instead of creating a new branch.
+
+also only refer to the optimaldraft notebook, the draft notebook is a scattered brain dump. dont use that please
+
 **General Ideas for Dashboard**
 
 Alluvial for Arrest, Domestic, and Crime Type
