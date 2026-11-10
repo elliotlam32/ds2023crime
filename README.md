@@ -5,9 +5,9 @@ public repo for group project.
 
 # pls read
 
-use optimal draft, not draft. only create new cells, don't edit cells that aren't yours to avoid merge conflits. denote your cells with a comment at the top
+you must download LFS to use this (probably)
 
-also please change the csv name to the one established in the code cell, this way we can avoid merge conflicts.
+use the draft with your name in the filename. when in person we will combine into one github
 
 
 **Download Instructions for Data**
