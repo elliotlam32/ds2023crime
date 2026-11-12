@@ -1,7 +1,7 @@
 # ds2023crime
 public repo for group project. 
 
-**branch testing - jimmy** nice
+**branch testing - jimmy** cool
 
 # pls read
 
